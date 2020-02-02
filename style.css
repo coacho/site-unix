@@ -93,6 +93,7 @@ li,ul,ol{
 }
 #paraf1{
 	display: flex;
+	width: auto;
 }
 #paraf1-img{
 	width: auto;
